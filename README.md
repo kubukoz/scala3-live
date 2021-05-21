@@ -1,10 +1,4 @@
 # scala3-live
 
-Some live-coding with Scala 3.
+Some live-coding with Scala 3 (from the Disney booth at ScalaCon Spring).
 
-- enums
-- top level definitions (types, defs, @main)
-- dependent function types
-- context functions
-- inline, compiletime, summonInline
-- match types
